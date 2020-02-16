@@ -11,7 +11,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter a string:");
 
-        String userString = input.next();
+        String userString = "java";
         String reverseString = "";
 
         userString = userString.toLowerCase();
